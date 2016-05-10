@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AssignmentFour</string>
+    <string name="URL">Database URL:</string>
+    <string name="JayarURL">http://www.eecg.utoronto.ca/~jayar/PeopleList.txt</string>
+    <string name="DadeURL">http://www.eecg.utoronto.ca/~shengdad/PeopleList.txt</string>
+    <string name="textClear">Clear</string>
+    <string name="textPopulate">Populate</string>
+    <string name="textSearch">Search</string>
+    <string name="textDelete">don\'t show again</string>
+    <string name="textInfo">more info</string>
+</resources>
